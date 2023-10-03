@@ -69,26 +69,41 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 33%;
+    margin-right: 20px;
 
 }
  .inner-item-withcount:not(:last-child)  {
-    width: 33%;
+  
     border-right: 2px solid #d2d2d2;
-    margin-right: 20px;
-    @media only screen and (max-width: 600px)  {
+  
 
-      width: 50%;
-
-}
 }
 
 
 @media only screen and (max-width: 600px) and (min-width: 100px)  {
-  .inner-item-withcount:not(:last-child)  {
+   .inner-item-withcount {
 
 
 
       width: 50%;
+
+
+} 
+.inner-item-withcount{
+
+  margin:10px 0;
+}
+.countoption {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.inner-item-withcount:not(:last-child)  {
+  
+  border-right: 2px solid #fff;
 
 
 }
@@ -96,7 +111,7 @@
 .counterupate h3.rich-text__heading {
 
 
-      font-size: 2.8rem;
+      font-size: 3.8rem;
 
     
 }
