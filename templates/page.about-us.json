@@ -93,7 +93,7 @@
           "type": "heading",
           "settings": {
             "heading": "100%",
-            "p": "Quality",
+            "p": "Innovation",
             "heading_size": "h1"
           }
         },
@@ -173,10 +173,10 @@
         "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Contact us now",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
-            "button_label_2": "",
+            "button_label_2": "Contact us now",
             "button_link_2": "shopify:\/\/pages\/contact",
             "button_style_secondary_2": false
           }
