@@ -14,36 +14,62 @@
   }
 {%- endstyle -%}
 
-<div class="page-width">
+<div class="page-width section-{{ section.id }}">
   <div class=" section-{{ section.id }}-padding countoption">
 
 
-        {%- for block in section.blocks -%}
-          {%- case block.type -%}
-            {%- when 'heading' -%}
-              <h3
-                class="rich-text__heading rte inline-richtext {{ block.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
-                {{ block.shopify_attributes }}
-                {% if settings.animations_reveal_on_scroll %}
-                  data-cascade
-                  style="--animation-order: {{ forloop.index }};"
-                {% endif %}
-              >
-                {{ block.settings.heading }}
-              </h3>
-      
-              <p>{{ block.settings.p }}</p>
-        
-   
-          {%- endcase -%}
-        {%- endfor -%}
+ 
+  
+    {%- for block in section.blocks -%}
+      {%- case block.type -%}
+
+        {%- when 'heading' -%}
+          <div class="inner-item-withcount">
+          <h3
+            class="rich-text__heading rte inline-richtext {{ block.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+            {{ block.shopify_attributes }}
+            {% if settings.animations_reveal_on_scroll %}
+              data-cascade
+              style="--animation-order: {{ forloop.index }};"
+            {% endif %}
+          >
+            {{ block.settings.heading }}
+          </h3>
+  
+          <p>{{ block.settings.p }}</p>
+    
+        </div>
+      {%- endcase -%}
+    {%- endfor -%}
+
 
   </div>
 </div>
 {% stylesheet %}
   
+.countoption {
+    display: flex;
+}
 
+.section-{{ section.id }} h3.rich-text__heading {
+    padding: 0;
+    margin: 0;
+    font-weight: 900;
+    font-size: 4.8rem;
+}
 
+ .inner-item-withcount:not(:last-child)  {
+    width: 33%;
+    border-right: 2px solid red;
+    margin-right: 20px;
+}
+.section-{{ section.id }} p {
+  padding: 0;
+    margin: 0;
+    font-weight: 900;
+    font-size: 1.7rem;
+
+}
 {% endstylesheet %}
 {% schema %}
 {
