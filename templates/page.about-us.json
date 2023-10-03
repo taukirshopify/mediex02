@@ -38,7 +38,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Established in 2008, Meditex Corporation emerged as a leading company in the aesthetic medicine and medical devices landscape of the Middle East and European markets.<br\/>With a clear vision to merge advanced beauty treatments and medical devices, we've established ourselves as a company leader in these regions.<br\/>Our main goal is to produce and offer advanced technology, methodologies, and products, enabling people to achieve their desired beauty and wellness. Our work is driven by our strong commitment to quality, unique design, and staying updated with the latest scientific solutions and services.<br\/><\/p>",
+            "text": "<p>Established in 2008, Meditex Corporation emerged as a leading company in the aesthetic medicine and medical devices landscape of the Middle East and European markets.<br\/>With a clear vision to merge advanced beauty treatments and medical devices, we've established ourselves as a company leader in these regions.<br\/>Our main goal is to produce and offer advanced technology, methodologies, and products, enabling people to achieve their desired beauty and wellness. Our work is driven by our strong commitment to quality, unique design, and staying updated with the latest scientific solutions and services.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -100,8 +100,8 @@
         "456290c7-b6ce-4729-8a6b-49f5dcf7306b": {
           "type": "heading",
           "settings": {
-            "heading": "100%",
-            "p": "Quality",
+            "heading": "350+",
+            "p": "Beauty clinics supplied",
             "heading_size": "h1"
           }
         }
@@ -126,8 +126,8 @@
         "8300f7df-1478-4e11-8870-f5856dfe1aab": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.<\/strong>",
-            "heading_size": "h1"
+            "heading": "We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.",
+            "heading_size": "h2"
           }
         }
       },
@@ -167,7 +167,7 @@
         "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Looking to elevate your clinic's offerings or expand your product line?<\/p>"
+            "text": "<h3>Looking to elevate your clinic's offerings or expand your product line?<\/h3>"
           }
         },
         "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-button-1": {
@@ -177,7 +177,7 @@
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
-            "button_link_2": "",
+            "button_link_2": "shopify:\/\/pages\/contact",
             "button_style_secondary_2": false
           }
         }
