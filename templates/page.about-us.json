@@ -205,9 +205,9 @@
         "template--21363902710082__0a8901cc-d5f8-4f2b-9af7-1288258d224a-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4853062.png",
-            "title": "Column",
-            "text": "<p> style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/4474325.png",
+            "title": "Trusted Quality",
+            "text": "<p>Meeting the Highest Standards in Aesthetic Medicine<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -215,9 +215,9 @@
         "bb2435ca-853f-474c-9ce4-454e14ee827a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4853062.png",
-            "title": "Column",
-            "text": "<p> style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/467545-200.png",
+            "title": "Global Reach",
+            "text": "<p>Serving the Middle East & Europe Markets with Excellence<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -225,9 +225,9 @@
         "1b84986e-e003-4360-a57c-cc43b04ef0db": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4853062.png",
-            "title": "Column",
-            "text": "<p> style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/pngwing.com.png",
+            "title": "Client Support",
+            "text": "<p>Dedicated Assistance for Every Need<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -250,7 +250,7 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
