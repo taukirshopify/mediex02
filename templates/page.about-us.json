@@ -58,7 +58,8 @@
         "template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-2"
       ],
       "custom_css": [
-        ".multicolumn.background-primary .multicolumn-card {background: none;}"
+        ".multicolumn.background-primary .multicolumn-card {background: none;}",
+        ".multicolumn-card__info {padding: 0;}"
       ],
       "settings": {
         "title": "",
