@@ -100,8 +100,8 @@
         "456290c7-b6ce-4729-8a6b-49f5dcf7306b": {
           "type": "heading",
           "settings": {
-            "heading": "100%",
-            "p": "Results",
+            "heading": "350+",
+            "p": "Beauty clinics supplied",
             "heading_size": "h1"
           }
         }
@@ -174,7 +174,7 @@
           "type": "button",
           "settings": {
             "button_label": "Contact us now",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/contact",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
