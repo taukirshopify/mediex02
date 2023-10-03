@@ -156,8 +156,13 @@
         "8300f7df-1478-4e11-8870-f5856dfe1aab"
       ],
       "settings": {
+<<<<<<< HEAD
         "desktop_content_position": "center",
         "content_alignment": "center",
+=======
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+>>>>>>> 968d8eb05ffa5da5ee54f544808d0fb4e327dab9
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -173,4 +178,8 @@
     "fd9218fb-c0e7-4710-9a80-771cead493d4",
     "e366f262-b422-4b7b-8bb6-2923705a048b"
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 968d8eb05ffa5da5ee54f544808d0fb4e327dab9
