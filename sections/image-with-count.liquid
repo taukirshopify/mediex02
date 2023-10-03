@@ -15,7 +15,7 @@
 {%- endstyle -%}
 
 <div class="page-width">
-  <div class="rich-text  section-{{ section.id }}-padding">
+  <div class=" section-{{ section.id }}-padding countoption">
 
 
         {%- for block in section.blocks -%}
@@ -32,7 +32,7 @@
                 {{ block.settings.heading }}
               </h3>
       
-             
+              <p>{{ block.settings.p }}</p>
         
    
           {%- endcase -%}
@@ -43,13 +43,11 @@
 {% stylesheet %}
   
 
-  h3.rich-text__heading {
-    font-size: 27px;
-}
+
 {% endstylesheet %}
 {% schema %}
 {
-  "name": "About page Content",
+  "name": "About Count",
   "tag": "section",
   "class": "section",
   "disabled_on": {
@@ -175,7 +173,7 @@
   ],
   "presets": [
     {
-      "name": "About page"
+      "name": "About Count"
     }
   ]
 }
