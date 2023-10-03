@@ -156,8 +156,8 @@
         "8300f7df-1478-4e11-8870-f5856dfe1aab"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
