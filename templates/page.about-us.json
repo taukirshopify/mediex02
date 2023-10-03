@@ -1,1 +1,176 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":36,"padding_bottom":28}},"590fc815-b7f8-4c44-ae12-b73687260ead":{"type":"rich-text","blocks":{"template--21363735134530__590fc815-b7f8-4c44-ae12-b73687260ead-heading-1":{"type":"heading","settings":{"heading":"Innovation is Our Obsession","heading_size":"h1"}}},"block_order":["template--21363735134530__590fc815-b7f8-4c44-ae12-b73687260ead-heading-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":24,"padding_bottom":0}},"ec1fd059-8a6c-47f8-aacb-cdfcde2d766a":{"type":"multicolumn","blocks":{"template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-1":{"type":"column","settings":{"title":"","text":"<p>Established in 2008, Meditex Corporation emerged as a leading company in the aesthetic medicine and medical devices landscape of the Middle East and European markets.<br\/>With a clear vision to merge advanced beauty treatments and medical devices, we've established ourselves as a company leader in these regions.<br\/>Our main goal is to produce and offer advanced technology, methodologies, and products, enabling people to achieve their desired beauty and wellness. Our work is driven by our strong commitment to quality, unique design, and staying updated with the latest scientific solutions and services.<br\/><\/p>","link_label":"","link":""}},"template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-2":{"type":"column","settings":{"title":"","text":"<p>Every day, we aim to bring new and innovative solutions. We select and design our products to meet specific needs, offering tools and treatments tailored for various beauty concerns to deliver the best results. Our business stands on three pillars: knowledge, quality, and technology.<br\/>We proudly supply more than 350 beauty clinics and well-known doctors across the region, showcasing our trusted reputation and expansive reach in the market.<\/p>","link_label":"","link":""}}},"block_order":["template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-1","template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-2"],"custom_css":[".multicolumn.background-primary .multicolumn-card {background: none;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":16,"padding_bottom":28}},"4ca15852-ff12-4dec-b713-d68811b6048d":{"type":"rich-text","blocks":{"template--21363735134530__4ca15852-ff12-4dec-b713-d68811b6048d-text-1":{"type":"text","settings":{"text":"<p><strong>We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.<\/strong><\/p>"}}},"block_order":["template--21363735134530__4ca15852-ff12-4dec-b713-d68811b6048d-text-1"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"","full_width":false,"padding_top":0,"padding_bottom":12}},"fd9218fb-c0e7-4710-9a80-771cead493d4":{"type":"rich-text","blocks":{"template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-heading-1":{"type":"heading","settings":{"heading":"Partner with Excellence","heading_size":"h1"}},"template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-text-1":{"type":"text","settings":{"text":"<p>Looking to elevate your clinic's offerings or expand your product line?<\/p>"}},"template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-button-1":{"type":"button","settings":{"button_label":"Contact us now","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-heading-1","template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-text-1","template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-button-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":24,"padding_bottom":32}}},"order":["main","590fc815-b7f8-4c44-ae12-b73687260ead","ec1fd059-8a6c-47f8-aacb-cdfcde2d766a","4ca15852-ff12-4dec-b713-d68811b6048d","fd9218fb-c0e7-4710-9a80-771cead493d4"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "590fc815-b7f8-4c44-ae12-b73687260ead": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21363735134530__590fc815-b7f8-4c44-ae12-b73687260ead-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Innovation is Our Obsession",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--21363735134530__590fc815-b7f8-4c44-ae12-b73687260ead-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "ec1fd059-8a6c-47f8-aacb-cdfcde2d766a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Established in 2008, Meditex Corporation emerged as a leading company in the aesthetic medicine and medical devices landscape of the Middle East and European markets.<br\/>With a clear vision to merge advanced beauty treatments and medical devices, we've established ourselves as a company leader in these regions.<br\/>Our main goal is to produce and offer advanced technology, methodologies, and products, enabling people to achieve their desired beauty and wellness. Our work is driven by our strong commitment to quality, unique design, and staying updated with the latest scientific solutions and services.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Every day, we aim to bring new and innovative solutions. We select and design our products to meet specific needs, offering tools and treatments tailored for various beauty concerns to deliver the best results. Our business stands on three pillars: knowledge, quality, and technology.<br\/>We proudly supply more than 350 beauty clinics and well-known doctors across the region, showcasing our trusted reputation and expansive reach in the market.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-1",
+        "template--21363735134530__ec1fd059-8a6c-47f8-aacb-cdfcde2d766a-column-2"
+      ],
+      "custom_css": [
+        ".multicolumn.background-primary .multicolumn-card {background: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 28
+      }
+    },
+    "4ca15852-ff12-4dec-b713-d68811b6048d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21363735134530__4ca15852-ff12-4dec-b713-d68811b6048d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21363735134530__4ca15852-ff12-4dec-b713-d68811b6048d-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "fd9218fb-c0e7-4710-9a80-771cead493d4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Partner with Excellence",
+            "heading_size": "h1"
+          }
+        },
+        "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking to elevate your clinic's offerings or expand your product line?<\/p>"
+          }
+        },
+        "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-heading-1",
+        "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-text-1",
+        "template--21363735134530__fd9218fb-c0e7-4710-9a80-771cead493d4-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 32
+      }
+    },
+    "e366f262-b422-4b7b-8bb6-2923705a048b": {
+      "type": "image-with-aboutpage",
+      "blocks": {
+        "8300f7df-1478-4e11-8870-f5856dfe1aab": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "8300f7df-1478-4e11-8870-f5856dfe1aab"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "590fc815-b7f8-4c44-ae12-b73687260ead",
+    "ec1fd059-8a6c-47f8-aacb-cdfcde2d766a",
+    "4ca15852-ff12-4dec-b713-d68811b6048d",
+    "fd9218fb-c0e7-4710-9a80-771cead493d4",
+    "e366f262-b422-4b7b-8bb6-2923705a048b"
+  ]
+}
