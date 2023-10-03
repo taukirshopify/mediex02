@@ -239,7 +239,8 @@
         "1b84986e-e003-4360-a57c-cc43b04ef0db"
       ],
       "custom_css": [
-        ".multicolumn-card-spacing {padding-top: 2.5rem; width: 65px; margin: 0 auto;}"
+        ".multicolumn-card-spacing {padding-top: 2.5rem; width: 65px; margin: 0 auto;}",
+        ".multicolumn.background-primary .multicolumn-card {background: none;}"
       ],
       "settings": {
         "title": "",
