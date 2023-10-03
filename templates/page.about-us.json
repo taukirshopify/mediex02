@@ -238,6 +238,9 @@
         "bb2435ca-853f-474c-9ce4-454e14ee827a",
         "1b84986e-e003-4360-a57c-cc43b04ef0db"
       ],
+      "custom_css": [
+        ".multicolumn-card-spacing {padding-top: 2.5rem; width: 65px; margin: 0 auto;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
