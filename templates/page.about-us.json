@@ -87,17 +87,10 @@
             "heading": "<strong>We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.<\/strong>",
             "heading_size": "h1"
           }
-        },
-        "e928fe45-15c9-412c-946d-86f823ff208a": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
-        "8300f7df-1478-4e11-8870-f5856dfe1aab",
-        "e928fe45-15c9-412c-946d-86f823ff208a"
+        "8300f7df-1478-4e11-8870-f5856dfe1aab"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -110,17 +103,6 @@
     },
     "4ca15852-ff12-4dec-b713-d68811b6048d": {
       "type": "rich-text",
-      "blocks": {
-        "template--21363735134530__4ca15852-ff12-4dec-b713-d68811b6048d-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21363735134530__4ca15852-ff12-4dec-b713-d68811b6048d-text-1"
-      ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
