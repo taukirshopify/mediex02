@@ -78,6 +78,17 @@
         "padding_bottom": 28
       }
     },
+    "942bc3fc-d4dd-4e1f-a9e3-a439e453bef0": {
+      "type": "image-with-count",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e366f262-b422-4b7b-8bb6-2923705a048b": {
       "type": "image-with-aboutpage",
       "blocks": {
@@ -159,6 +170,7 @@
     "main",
     "590fc815-b7f8-4c44-ae12-b73687260ead",
     "ec1fd059-8a6c-47f8-aacb-cdfcde2d766a",
+    "942bc3fc-d4dd-4e1f-a9e3-a439e453bef0",
     "e366f262-b422-4b7b-8bb6-2923705a048b",
     "4ca15852-ff12-4dec-b713-d68811b6048d",
     "fd9218fb-c0e7-4710-9a80-771cead493d4"
