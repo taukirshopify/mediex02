@@ -84,13 +84,20 @@
         "8300f7df-1478-4e11-8870-f5856dfe1aab": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "<strong>We offer our clients the latest in the field and we persistently strive to offer the best methodology, technology and scientific solutions for aesthetics and wellness.<\/strong>",
             "heading_size": "h1"
+          }
+        },
+        "e928fe45-15c9-412c-946d-86f823ff208a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
       "block_order": [
-        "8300f7df-1478-4e11-8870-f5856dfe1aab"
+        "8300f7df-1478-4e11-8870-f5856dfe1aab",
+        "e928fe45-15c9-412c-946d-86f823ff208a"
       ],
       "settings": {
         "desktop_content_position": "left",
