@@ -80,6 +80,18 @@
     },
     "942bc3fc-d4dd-4e1f-a9e3-a439e453bef0": {
       "type": "image-with-count",
+      "blocks": {
+        "b74ab1f8-978d-42b9-a00c-cacce87c6050": {
+          "type": "heading",
+          "settings": {
+            "heading": "100%",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "b74ab1f8-978d-42b9-a00c-cacce87c6050"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
