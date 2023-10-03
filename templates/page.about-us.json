@@ -85,6 +85,7 @@
           "type": "heading",
           "settings": {
             "heading": "100%",
+            "p": "Quality",
             "heading_size": "h1"
           }
         },
@@ -92,6 +93,7 @@
           "type": "heading",
           "settings": {
             "heading": "100%",
+            "p": "Quality",
             "heading_size": "h1"
           }
         },
@@ -99,6 +101,7 @@
           "type": "heading",
           "settings": {
             "heading": "100%",
+            "p": "Quality",
             "heading_size": "h1"
           }
         }
