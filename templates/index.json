@@ -336,7 +336,7 @@
         "caption": "At Meditex, we lead in delivering the latest in aesthetics, ensuring access to high-end scientific and cosmetic solutions. Our blend of modern technology and deep industry insight enables us to cater to the evolving needs of our clients",
         "heading": "OUR SERVICES",
         "heading_size": "h2",
-        "heading_alignment": "center",
+        "heading_alignment": "left",
         "layout": "row",
         "color_scheme": "background-2",
         "container_color_scheme": "",
