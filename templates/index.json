@@ -306,11 +306,21 @@
             "row_content": "<p>At Meditex, we have a team of well-trained biomedical engineers who excel in transforming the technical complexities of medical devices into clinical language. We craft customized training programs for Clinical end users as well as Biomedical Engineers in areas of our expertise.<\/p>",
             "page": ""
           }
+        },
+        "f794f967-fad5-4c6c-bf4f-4c3045f451bf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Medical Devices and Accessories:",
+            "icon": "none",
+            "row_content": "<p>Meditex Corporation provides premium solutions in the areas of medical equipment, consumables, and hospital engineering. Our goal is to offer the desired quality at a fair price to our customers, enabling them to provide quality and cost-effective healthcare facilities to their patients.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--21363902021954__8332b08c-41c6-462d-9ff6-58ccea0e4b9c-collapsible_row-1",
-        "46346647-7262-474e-a328-09f34e80c0fc"
+        "46346647-7262-474e-a328-09f34e80c0fc",
+        "f794f967-fad5-4c6c-bf4f-4c3045f451bf"
       ],
       "settings": {
         "caption": "At Meditex, we lead in delivering the latest in aesthetics, ensuring access to high-end scientific and cosmetic solutions. Our blend of modern technology and deep industry insight enables us to cater to the evolving needs of our clients",
