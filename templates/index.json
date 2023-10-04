@@ -119,7 +119,7 @@
         "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-buy_buttons-1": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
@@ -290,7 +290,7 @@
       "settings": {
         "color_scheme": "",
         "title": "About us",
-        "h2": "WE INNOVATE  <br> WE PURSUE EXCELLENCE <br> WE LEAD AESTHETIC INNOVATION",
+        "h2": "<i> WE INNOVATE  <br> WE PURSUE EXCELLENCE <br> WE LEAD AESTHETIC INNOVATION  <i><\/i><\/i>",
         "p": "Established in 2008, Meditex Corporation leads in the aesthetic medicine and medical devices in the Middle East and Europe. With a 360° experience in the medical beauty industry, our continuous pursuit of excellence drives us from exclusive formulations and designs to the research and implementation of the latest scientific innovations.",
         "full_width": true,
         "padding_top": 40,
