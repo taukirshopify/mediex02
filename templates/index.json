@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/slide_sito_corsi_proposta_2-980x413.jpg",
-            "heading": "Redefining Beauty Standards: Dive into Our Premium Treatments & Medical Solutions.",
+            "heading": "Redefining Beauty Standards: Dive into Our Premium Treatments & Medical  Solutions.",
             "heading_size": "h2",
-            "subheading": "Discover the perfect balance between innovative beauty treatments and advanced medical solutions, tailored for your clinic.",
+            "subheading": "Discover the perfect balance between innovative beauty treatments and advanced medical devices solutions, tailored for your beauty clinic.",
             "button_label": "Shop All",
             "link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
@@ -18,7 +18,7 @@
             "text_alignment": "left",
             "image_overlay_opacity": 50,
             "color_scheme": "background-2",
-            "text_alignment_mobile": "left"
+            "text_alignment_mobile": "center"
           }
         },
         "51b5b911-62d0-4ef6-859c-9d0bc943ac32": {
