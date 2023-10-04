@@ -70,7 +70,7 @@
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -292,9 +292,9 @@
         "template--21363902021954__8332b08c-41c6-462d-9ff6-58ccea0e4b9c-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Innovative Aesthetic Solutions:",
             "icon": "none",
-            "row_content": "<p>hhelo there<\/p>",
+            "row_content": "<p>At Meditex, we lead in delivering the latest in aesthetics, ensuring access to high-end scientific and cosmetic solutions. Our blend of modern technology and deep industry insight enables us to cater to the evolving needs of our clients. We curate our portfolio to include innovative products that enhance aesthetic outcomes while ensuring end-user safety and satisfaction.<\/p>",
             "page": ""
           }
         },
@@ -323,8 +323,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     }
   },
