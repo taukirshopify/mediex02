@@ -297,10 +297,20 @@
             "row_content": "<p>hhelo there<\/p>",
             "page": ""
           }
+        },
+        "46346647-7262-474e-a328-09f34e80c0fc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "<p>hhelo there<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "template--21363902021954__8332b08c-41c6-462d-9ff6-58ccea0e4b9c-collapsible_row-1"
+        "template--21363902021954__8332b08c-41c6-462d-9ff6-58ccea0e4b9c-collapsible_row-1",
+        "46346647-7262-474e-a328-09f34e80c0fc"
       ],
       "settings": {
         "caption": "At Meditex, we lead in delivering the latest in aesthetics, ensuring access to high-end scientific and cosmetic solutions. Our blend of modern technology and deep industry insight enables us to cater to the evolving needs of our clients",
