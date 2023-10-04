@@ -335,7 +335,7 @@
       "settings": {
         "caption": "",
         "heading": "OUR SERVICES",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "row",
         "color_scheme": "background-1",
