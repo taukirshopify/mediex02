@@ -180,66 +180,6 @@
         "padding_bottom": 36
       }
     },
-    "0a8901cc-d5f8-4f2b-9af7-1288258d224a": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21363902710082__0a8901cc-d5f8-4f2b-9af7-1288258d224a-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4474325.png",
-            "title": "Trusted Quality",
-            "text": "<p>Meeting the Highest Standards in Aesthetic Medicine<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "bb2435ca-853f-474c-9ce4-454e14ee827a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/467545-200.png",
-            "title": "Global Reach",
-            "text": "<p>Serving the Middle East & Europe Markets with Excellence<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1b84986e-e003-4360-a57c-cc43b04ef0db": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pngwing.com.png",
-            "title": "Client Support",
-            "text": "<p>Dedicated Assistance for Every Need<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21363902710082__0a8901cc-d5f8-4f2b-9af7-1288258d224a-column-1",
-        "bb2435ca-853f-474c-9ce4-454e14ee827a",
-        "1b84986e-e003-4360-a57c-cc43b04ef0db"
-      ],
-      "custom_css": [
-        ".multicolumn-card-spacing {padding-top: 2.5rem; width: 65px; margin: 0 auto;}",
-        ".multicolumn.background-primary .multicolumn-card {background: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "3af409bc-a688-410e-8c96-33f4429771dc": {
       "type": "collection-list",
       "blocks": {
@@ -349,6 +289,66 @@
         "padding_top": 52,
         "padding_bottom": 52
       }
+    },
+    "0a8901cc-d5f8-4f2b-9af7-1288258d224a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21363902710082__0a8901cc-d5f8-4f2b-9af7-1288258d224a-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4474325.png",
+            "title": "Trusted Quality",
+            "text": "<p>Meeting the Highest Standards in Aesthetic Medicine<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bb2435ca-853f-474c-9ce4-454e14ee827a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/467545-200.png",
+            "title": "Global Reach",
+            "text": "<p>Serving the Middle East & Europe Markets with Excellence<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1b84986e-e003-4360-a57c-cc43b04ef0db": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pngwing.com.png",
+            "title": "Client Support",
+            "text": "<p>Dedicated Assistance for Every Need<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21363902710082__0a8901cc-d5f8-4f2b-9af7-1288258d224a-column-1",
+        "bb2435ca-853f-474c-9ce4-454e14ee827a",
+        "1b84986e-e003-4360-a57c-cc43b04ef0db"
+      ],
+      "custom_css": [
+        ".multicolumn-card-spacing {padding-top: 2.5rem; width: 65px; margin: 0 auto;}",
+        ".multicolumn.background-primary .multicolumn-card {background: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -356,9 +356,9 @@
     "featured-collection-0",
     "e24582df-85cd-42e9-8f8e-a65dbca57846",
     "8653101c-c7cf-4215-9c91-6defee666702",
-    "0a8901cc-d5f8-4f2b-9af7-1288258d224a",
     "3af409bc-a688-410e-8c96-33f4429771dc",
     "8013cb9b-8ee3-49a9-9f93-47a8f413c895",
-    "8332b08c-41c6-462d-9ff6-58ccea0e4b9c"
+    "8332b08c-41c6-462d-9ff6-58ccea0e4b9c",
+    "0a8901cc-d5f8-4f2b-9af7-1288258d224a"
   ]
 }
