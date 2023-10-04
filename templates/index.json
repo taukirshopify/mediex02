@@ -334,10 +334,10 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "row",
         "color_scheme": "background-2",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
