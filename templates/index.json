@@ -57,6 +57,7 @@
     },
     "featured-collection-0": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Best Sellers",
         "heading_size": "h1",
@@ -81,6 +82,76 @@
         "swipe_on_mobile": false,
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "11eb6aa4-584c-4370-81f8-24504cea8e00": {
+      "type": "featured-product",
+      "blocks": {
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-text-1",
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-title-1",
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-price-1",
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-variant_picker-1",
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-quantity_selector-1",
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-buy_buttons-1",
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-share-1"
+      ],
+      "settings": {
+        "product": "v-zone-system",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "e24582df-85cd-42e9-8f8e-a65dbca57846": {
@@ -278,7 +349,7 @@
       "settings": {
         "caption": "",
         "heading": "OUR SERVICES",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
         "color_scheme": "background-1",
@@ -354,6 +425,7 @@
   "order": [
     "slideshow",
     "featured-collection-0",
+    "11eb6aa4-584c-4370-81f8-24504cea8e00",
     "e24582df-85cd-42e9-8f8e-a65dbca57846",
     "8653101c-c7cf-4215-9c91-6defee666702",
     "3af409bc-a688-410e-8c96-33f4429771dc",
