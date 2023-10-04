@@ -315,12 +315,22 @@
             "row_content": "<p>Meditex Corporation provides premium solutions in the areas of medical equipment, consumables, and hospital engineering. Our goal is to offer the desired quality at a fair price to our customers, enabling them to provide quality and cost-effective healthcare facilities to their patients.<\/p>",
             "page": ""
           }
+        },
+        "3f559a43-f739-4ffd-8468-6b5271b345c2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Medical Equipment Maintenance:",
+            "icon": "none",
+            "row_content": "<p>Being a trusted medical equipment supplier, Meditex is backed by a team of qualified, experienced, and committed technical support engineers. Equipped with a full range of Biomedical test and calibration devices.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--21363902021954__8332b08c-41c6-462d-9ff6-58ccea0e4b9c-collapsible_row-1",
         "46346647-7262-474e-a328-09f34e80c0fc",
-        "f794f967-fad5-4c6c-bf4f-4c3045f451bf"
+        "f794f967-fad5-4c6c-bf4f-4c3045f451bf",
+        "3f559a43-f739-4ffd-8468-6b5271b345c2"
       ],
       "settings": {
         "caption": "At Meditex, we lead in delivering the latest in aesthetics, ensuring access to high-end scientific and cosmetic solutions. Our blend of modern technology and deep industry insight enables us to cater to the evolving needs of our clients",
