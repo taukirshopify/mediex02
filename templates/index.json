@@ -122,12 +122,6 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
-        },
-        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -136,8 +130,7 @@
         "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-price-1",
         "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-variant_picker-1",
         "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-quantity_selector-1",
-        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-buy_buttons-1",
-        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-share-1"
+        "template--21363902021954__11eb6aa4-584c-4370-81f8-24504cea8e00-buy_buttons-1"
       ],
       "settings": {
         "product": "v-zone-system",
