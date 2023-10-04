@@ -1,0 +1,141 @@
+{{ 'section-rich-text.css' | asset_url | stylesheet_tag }}
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding { 
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+<div class=" section-{{ section.id }}-padding homewarper">
+
+<div class="page-width section-{{ section.id }} homeabout" >
+
+  <h2>{{ section.settings.title }}</h2>
+    <div class="about-content-wrapper">
+      <h2>{{ section.settings.h2 }}</h2>
+      <p>{{ section.settings.p2 }}</p>
+    </div>
+
+  </div>
+</div>
+{% stylesheet %}
+  .homeabout .about-content-wrapper h2{
+      width:50%;
+  }
+  .homeabout .about-content-wrapper p{
+      width:50%;
+  }
+.countoption {
+    display: flex;
+}
+
+.counterupate h3.rich-text__heading {
+    padding: 0;
+    margin: 0;
+    font-weight: 900;
+    font-size: 4.8rem;
+
+    @media only screen and (max-width: 600px)  {
+
+      font-size: 2.8rem;
+
+    }
+}
+
+.inner-item-withcount{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 33%;
+
+
+}
+ .inner-item-withcount:not(:last-child)  {
+  
+    border-right: 2px solid #d2d2d2;
+  
+
+}
+
+
+@media only screen and (max-width: 600px) and (min-width: 100px)  {
+
+
+}
+
+{% endstylesheet %}
+{% schema %}
+{
+  "name": "Home page About",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "background-1"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Section title",
+      "default": "About us",
+      "info": "About us"
+    },
+    {
+      "type": "text",
+      "id": "h2",
+      "label": "section Heading two",
+      "default": "WE sketch"
+    },
+    {
+      "type": "text",
+      "id": "p",
+      "label": "Section description",
+      "default": "WE want the furtuer of design to look different form "
+    },
+    {
+      "type": "checkbox",
+      "id": "full_width",
+      "default": true,
+      "label": "t:sections.rich-text.settings.full_width.label"
+    },
+
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 52
+    }
+  ],
+  "presets": [
+    {
+      "name": "About Home"
+    }
+  ]
+}
+{% endschema %}
