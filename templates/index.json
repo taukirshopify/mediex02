@@ -301,9 +301,9 @@
         "46346647-7262-474e-a328-09f34e80c0fc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Clinical & Technical Training:",
             "icon": "none",
-            "row_content": "<p>hhelo there<\/p>",
+            "row_content": "<p>At Meditex, we have a team of well-trained biomedical engineers who excel in transforming the technical complexities of medical devices into clinical language. We craft customized training programs for Clinical end users as well as Biomedical Engineers in areas of our expertise.<\/p>",
             "page": ""
           }
         }
