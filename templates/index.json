@@ -332,6 +332,9 @@
         "f794f967-fad5-4c6c-bf4f-4c3045f451bf",
         "3f559a43-f739-4ffd-8468-6b5271b345c2"
       ],
+      "custom_css": [
+        "h2.collapsible-content__heading {border-bottom: 1px solid #16c2d5; display: inline-block;}"
+      ],
       "settings": {
         "caption": "",
         "heading": "OUR SERVICES",
