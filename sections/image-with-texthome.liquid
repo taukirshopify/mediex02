@@ -17,7 +17,7 @@
 
 <div class="page-width section-{{ section.id }} homeabout" >
 
-  <h2>{{ section.settings.title }}</h2>
+  <h1>{{ section.settings.title }}</h1>
     <div class="about-content-wrapper">
       <h2>{{ section.settings.h2 }}</h2>
       <p>{{ section.settings.p }}</p>
@@ -32,7 +32,7 @@
   .homeabout .about-content-wrapper p{
       width:50%;
   }
-.countoption {
+  .about-content-wrapper {
     display: flex;
 }
 
@@ -58,6 +58,20 @@
 
 
 }
+.homeabout h1 {
+    font-size: 50px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0;
+    display: inline-block;
+    border-bottom:1px solid  #16c2d5;
+}
+.homeabout h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
  .inner-item-withcount:not(:last-child)  {
   
     border-right: 2px solid #d2d2d2;
@@ -68,7 +82,20 @@
 
 @media only screen and (max-width: 600px) and (min-width: 100px)  {
 
+  .homeabout .about-content-wrapper h2{
+      width:100%;
+  }
+  .homeabout .about-content-wrapper p{
+      width:100%;
+  }
+  .about-content-wrapper {
 
+    flex-direction: column;
+}
+.homeabout h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
 }
 
 {% endstylesheet %}
